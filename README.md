@@ -1,4 +1,4 @@
-# 🃏 Texas-Holdem-Poker-Multiplayer-Source-Code  德州扑克源码 | 德州撲克源碼  
+# 🃏 Texas-Holdem-Poker-Multiplayer-Source-Code  德州源码  | 德州扑克源码 | 德州撲克源碼  
 
 💡 Build your own poker platform in minutes  
 💡 快速搭建属于你的德州扑克平台  
@@ -100,7 +100,7 @@ See real gameplay below 👇
 -   **联系方式**：📱 **Telegram：@xuzongbin001**
 -   **备用邮箱**：📧 **masterai918@gmail.com**
 
-👉 **立即联系，获取在线演示和详细报价！**
+👉 **立即联系，获取在线演示！**
 
 ---
 
