@@ -8,7 +8,7 @@ namespace game
     {
         namespace gamelogic
         {
-            void GameBegin(GameRoot *root);
+            void TokenTo(GameRoot *root);
         }
     }
 }

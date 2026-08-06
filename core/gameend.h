@@ -8,7 +8,8 @@ namespace game
     {
         namespace gamelogic
         {
-            void GameBegin(GameRoot *root);
+            void GameEnd(GameRoot *root);
+            int sendGameFinish2Room(GameRoot *root);
         }
     }
 }

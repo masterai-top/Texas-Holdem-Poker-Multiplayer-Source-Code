@@ -1,5 +1,9 @@
 #pragma once
 
+#include "common/nndef.h"
+
+using namespace nndef;
+
 namespace game
 {
     class GameRoot;
@@ -8,7 +12,7 @@ namespace game
     {
         namespace gamelogic
         {
-            void GameBegin(GameRoot *root);
+            void EndTimer(E_NN_XTIME xtimekey, GameRoot *root, bool toclient = true);
         }
     }
 }

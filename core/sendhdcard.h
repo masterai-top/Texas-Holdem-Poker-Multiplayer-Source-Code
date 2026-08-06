@@ -8,7 +8,8 @@ namespace game
     {
         namespace gamelogic
         {
-            void GameBegin(GameRoot *root);
+            void SendHdCard(GameRoot *root);
+            void SetWinnerCard(GameRoot *root);
         }
     }
 }
